@@ -3,7 +3,7 @@ Android Firebase Example – User Registration with Authentication we will see h
 User Registration using Firebase 
 <h1>What is Firebase?<h1>
   
- <p>Firebase is a cloud service provider. It is now under google and this service can replace your whole server side part of your application. In many tutorials we had used MySQL and PHP for our database. But if we will use Firebase we do not need any server side code or configuration. We can directly use firebase. Firebase comes with a bundle of many features.</p>
+ Firebase is a cloud service provider. It is now under google and this service can replace your whole server side part of your application. In many tutorials we had used MySQL and PHP for our database. But if we will use Firebase we do not need any server side code or configuration. We can directly use firebase. Firebase comes with a bundle of many features.
  
  <ul>
   <li>Creating an Android Studio Project</li>
