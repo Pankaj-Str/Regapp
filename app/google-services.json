@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "331820303528",
+    "firebase_url": "https://regapp-f6f9e.firebaseio.com",
+    "project_id": "regapp-f6f9e",
+    "storage_bucket": "regapp-f6f9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331820303528:android:6ba0a324775c6942",
+        "android_client_info": {
+          "package_name": "p4n.in.regapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331820303528-tosus434sh2tj9d1cr2hmmh19hioeuqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvqj0H-ZynmgPjbaAmmFlQ5eMCdfSVwjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331820303528-tosus434sh2tj9d1cr2hmmh19hioeuqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
